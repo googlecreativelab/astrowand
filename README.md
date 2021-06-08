@@ -5,7 +5,7 @@
 
 Since 2009, coders have created thousands of experiments using Chrome, Android, AI, WebVR, AR and more. We showcase these projects and a variety of helpful tools and resources to inspire a diverse community of makers to explore, create, and share what’s possible with these technologies.
 
-**AstroWand** is a part of the TensorFlow Microcontroller Experiments, a collection of open source, interactive projects designed to demonstrate some fun ways to combine Arduino and TensorFlow Lite for Microcontrollers. 
+**Astrowand** is a part of the TensorFlow Microcontroller Experiments, a collection of open source, interactive projects designed to demonstrate some fun ways to combine Arduino and TensorFlow Lite for Microcontrollers. 
 
 These projects were built with the 
 [Arduino Sense 33 BLE](https://store.arduino.cc/usa/nano-33-ble-sense "Arduino Store"), [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "TFL4M"), standard web technologies (HTML, CSS & Javascript ) and [THREEJS](https://threejs.org/ "three").
@@ -63,8 +63,8 @@ Flashing: Using the Arduino Nano Sense 33 BLE
 ![TensorFlow Lite Library](/readme_images/tflib.png)
 
 4. Open the sketch and flash
-    - Download the  [Astrowand Arduino sketchfile](https://experiments.withgoogle.com/astrowand/view/astrowand-arduino-sketch-v002.zip "file")
-    - Unzip the downloaded Astrowand file, open the **arduino** <folder> and double click on <astrowand.ino> file
+    - Download the  [Astrowand Arduino sketch file](https://experiments.withgoogle.com/astrowand/view/astrowand-arduino-sketch-v002.zip "file")
+    - Unzip the downloaded Astrowand file, open the **Arduino** <folder> and double click on <astrowand.ino> file
     - Click the Right arrow in the top left corner to build and upload the sketch.  
 ![Arduino Port](/readme_images/buttons.png)
 
@@ -103,7 +103,7 @@ We made these projects to work specifically with the Arduino Nano, and we curren
 You can create your own model in several different ways. Check out these links: 
 
 - [Experiments Collection](https://experiments.withgoogle.com/ "Experiments Collection") - Inspiration and more resources
-[Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view "Tiny Motion Trainer") - Code-free motion trainer for microcontrollers
+- [Tiny Motion Trainer](https://experiments.withgoogle.com/tiny-motion-trainer/view "Tiny Motion Trainer") - Code-free motion trainer for microcontrollers
 - [Teachable Machine](https://teachablemachine.withgoogle.com/ "Teachable Machine") - Code-free image model trainer
 - [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers "TensorFlow Lite for Microcontrollers") - Full documentation 
 - [Free Harvard EdX Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning "Harvard X Course")  - In-depth course on TensorFlow Lite for Microcontrollers and the TinyML Ecosystem `
